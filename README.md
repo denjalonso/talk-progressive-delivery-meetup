@@ -1,0 +1,1 @@
+# mymoid-js internals
