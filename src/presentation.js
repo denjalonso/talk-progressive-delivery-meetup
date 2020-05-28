@@ -82,7 +82,7 @@ export default class Presentation extends React.Component {
         {/*teníamos CI, CD pero los rollbacks ..., monitorizamos los 500, no juegues con la pasta, mucha desconfianza*/}
 
         <Slide>
-            <Heading size={4}>>Wait!!!!! The problem ...</Heading>
+            <Heading size={4}>Wait!!!!! The problem ...</Heading>
         </Slide>
 
         {/*Pongan en estos tres puntos todos los problemas que nos encontramos diariamente,
