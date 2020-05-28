@@ -75,7 +75,7 @@ export default class Presentation extends React.Component {
 
         <Slide>
           <Text>
-            DevOps, CI, CD, .... and now (naw) what?
+            DevOps, CI, CD, .... and now what?
           </Text>
         </Slide>
 
