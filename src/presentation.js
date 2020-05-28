@@ -229,7 +229,6 @@ export default class Presentation extends React.Component {
             height={200}
           />
           <JsCode>{`
-            cd ../k8s-config
             git pull
 
             git log --oneline
