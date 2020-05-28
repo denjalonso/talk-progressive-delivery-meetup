@@ -74,15 +74,15 @@ export default class Presentation extends React.Component {
         {/*(pregunta trampa) No soy perfil infrastructura ...¿Quien tiene perfiles dedicados a debops?  */}
 
         <Slide>
-          <Text>
+          <Heading size={4}>
             DevOps, CI, CD, .... and now what?
-          </Text>
+          </Heading>
         </Slide>
 
         {/*teníamos CI, CD pero los rollbacks ..., monitorizamos los 500, no juegues con la pasta, mucha desconfianza*/}
 
         <Slide>
-          <Text>Wait!!!!! The problem ...</Text>
+            <Heading size={4}>>Wait!!!!! The problem ...</Heading>
         </Slide>
 
         {/*Pongan en estos tres puntos todos los problemas que nos encontramos diariamente,
